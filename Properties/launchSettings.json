@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MonkeModCleaner (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MonkeModCleaner (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
